@@ -41,8 +41,9 @@ pip (Python package installer)
 Installation
 
 Clone the repository
-`bashgit clone https://github.com/yourusername/advanced-calculator.git`
-`cd advanced-calculator`
+```bash
+   git clone https://github.com/yourusername/advanced-calculator.git
+   cd advanced-calculator```
 
 Install required dependencies
 bashpip install -r requirements.txt
