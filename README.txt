@@ -41,15 +41,17 @@ pip (Python package installer)
 Installation
 
 Clone the repository
-   bash
-   git clone https://github.com/clowno7/advanced-calculator.git
-   cd advanced-calculator
+bash
+git clone https://github.com/clowno7/calculator.git
+cd calculator
 
 Install required dependencies
-bashpip install -r requirements.txt
+bash
+pip install -r requirements.txt
 
 Run the calculator
-bashpython calculator.py
+bash
+python calculator.py
 
 
 Alternative Installation (Standalone)
