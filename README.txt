@@ -42,7 +42,7 @@ Installation
 
 Clone the repository
 bash
-git clone https://github.com/clowno7/calculator.git
+git clone https://github.com/Giridhar-07/calculator.git
 cd calculator
 
 Install required dependencies
